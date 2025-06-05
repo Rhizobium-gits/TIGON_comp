@@ -11,7 +11,7 @@ numpyのnp.dtypesの部分をnp.dtypeに書き換える必要がある(バージ
 
 pytorch 1.13.1  # pytorchのpyは消す
 
-Scipy 1.10.1　　# Visualizationで使う
+Scipy 1.10.1 # Visualizationで使う
 
 TorchDiffEqPack 1.0.1
 
